@@ -28,13 +28,13 @@ _I AM BESIDE YOU_ one-to-one chat application is a real-time messaging platform 
 
 ## 🎈 Screenshots
 
-![](./images/Screenshot_1.png)
+![](/images/Screenshot_1.png)
 
-![](./images/Screenshot_2.png)
+![](/images/Screenshot_2.png)
 
-![](./images/Screenshot_3.png)
+![](/images/Screenshot_3.png)
 
-## ![](./images/Screenshot_4.png)
+## ![](/images/Screenshot_4.png)
 
 ## 🛠 Installation
 
