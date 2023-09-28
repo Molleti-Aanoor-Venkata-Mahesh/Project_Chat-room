@@ -34,7 +34,7 @@ _I AM BESIDE YOU_ one-to-one chat application is a real-time messaging platform 
 
 ![](/images/Screenshot_3.png)
 
-## ![](/images/Screenshot_4.png)
+![](/images/Screenshot_4.png)
 
 ## 🛠 Installation
 
@@ -55,10 +55,10 @@ git clone https://github.com/vashi001/I_IAM_BESIDE_YOU_IIT_DHANBAD_PELAPUDI_VASH
 
 ### 2. Install package dependencies
 
-Change the directory to public
+Change the directory to client
 
 ```bash
-cd public
+cd client
 ```
 
 Install all the Node Modules
@@ -67,10 +67,10 @@ Install all the Node Modules
 npm install
 ```
 
-Change the directory to server
+Change the directory to main
 
 ```bash
-cd server
+cd ..
 ```
 
 Install all the Node Modules
@@ -82,21 +82,21 @@ npm install
 ### 3. Start development servers
 
 To start `server` and `website` run:
-In the server terminal
+In the main terminal
 
 ```bash
 npm start
 ```
 
-In the Public terminal
+In the client terminal
 
 ```bash
-npm start
+npm run dev
 ```
 
 ```bash
 # Server API is running at http://localhost:SERVER_PORT (http://localhost:5000 by default)
-# Web client is running at http://localhost:PORT (http://localhost:3000 by default)
+# Web client is running at http://localhost:PORT (http://localhost:5173 by default)
 ```
 
 To restart npm process :
