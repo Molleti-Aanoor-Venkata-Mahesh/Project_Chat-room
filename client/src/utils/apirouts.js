@@ -1,4 +1,4 @@
-export const host = import.meta.env.VITE_HOST_URL;
+export const host = "https://chat-app-iam-beside-you-iit-dhanbad.onrender.com";
 export const regRoute = `${host}/api/auth/reg`;
 export const loginRoute = `${host}/api/auth/login`;
 export const setAvatarRoute = `${host}/api/auth/setAvatar`;
