@@ -50,7 +50,7 @@ Both should be installed and make sure mongodb is running.
 Open the terminal and run the following command
 
 ```bash
-git clone https://github.com/vashi001/I_IAM_BESIDE_YOU_IIT_DHANBAD_PELAPUDI_VASHISHTA
+git clone https://github.com/Molleti-Aanoor-Venkata-Mahesh/Project_Chat-room
 ```
 
 ### 2. Install package dependencies
